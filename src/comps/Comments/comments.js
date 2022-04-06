@@ -1,5 +1,5 @@
 import {useEffect, useState} from "react";
-import {comServ} from "../../services";
+import {comServ} from "../../services/";
 import {Comment} from "../Comment/comment";
 
 export const Comments=()=>{

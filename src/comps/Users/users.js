@@ -1,5 +1,5 @@
 import {useEffect, useState} from "react";
-import {usServ} from "../../services";
+import {usServ} from "../../services/";
 import {User} from "../User/user";
 
 export const Users=()=>{

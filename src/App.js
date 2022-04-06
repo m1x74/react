@@ -11,7 +11,7 @@ return(
             <Users/>
             <Posts/>
         </div>
-        <div>
+        <div className={'coms'}>
             <Comments/>
         </div>
     </div>

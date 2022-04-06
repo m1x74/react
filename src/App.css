@@ -38,4 +38,8 @@
 }
 .wrap{
   display: flex;
+  column-gap: 100px;
+}
+.coms{
+  margin-top: 40px;
 }
