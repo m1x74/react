@@ -1,0 +1,6 @@
+export * from './Comment/comment'
+export * from './Comments/comments'
+export * from './Posts/posts'
+export * from './Post/post'
+export * from './Users/users'
+export * from './User/user'
